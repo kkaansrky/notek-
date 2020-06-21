@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/save_note"
+    android:icon="@drawable/ic_save"
+    android:title="Save"
+    app:showAsAction="ifRoom"
+
+    />
+    <item
+        android:id="@+id/bold_text"
+        android:icon="@drawable/ic_bold"
+        android:title="Bold"
+        app:showAsAction="ifRoom"
+
+        />
+    <item
+        android:id="@+id/exit_notsave"
+        android:icon="@drawable/ic_close"
+        android:title="Kaydetme"
+        app:showAsAction="ifRoom"
+        />
+</menu>
