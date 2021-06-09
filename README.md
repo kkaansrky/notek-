@@ -1,5 +1,5 @@
 # noteK++
-* a basic note app
+A basic note app
 * Room example 
 
 <div>
