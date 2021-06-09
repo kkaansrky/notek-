@@ -4,6 +4,6 @@ a basic note app
 
 
 ![giphy] (https://github.com/kkaansrky/notek-/blob/master/gifs/firstScene.gif)
-![giphy (1)] (https://github.com/kkaansrky/notek-/blob/master/gifs/addNote.gif)
-![giphy (2)] (https://github.com/kkaansrky/notek-/blob/master/gifs/editNote.gif)
-![giphy (3)] (https://github.com/kkaansrky/notek-/blob/master/gifs/deleteNote.gif)
+![giphy] (https://github.com/kkaansrky/notek-/blob/master/gifs/addNote.gif)
+![giphy] (https://github.com/kkaansrky/notek-/blob/master/gifs/editNote.gif)
+![giphy] (https://github.com/kkaansrky/notek-/blob/master/gifs/deleteNote.gif)
